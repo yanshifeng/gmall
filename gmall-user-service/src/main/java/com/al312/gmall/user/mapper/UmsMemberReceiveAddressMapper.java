@@ -1,4 +1,4 @@
-package com.al312.gmall.mapper;
+package com.al312.gmall.user.mapper;
 
 import com.al312.gmall.pojo.UmsMemberReceiveAddress;
 import tk.mybatis.mapper.common.Mapper;
